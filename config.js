@@ -12,11 +12,11 @@ module.exports = {
     token: "", // token
     clientId: "", // bot id
     prefix: "!", // prefix
-    language: "ar", // ar for arabic | en for english
+    language: "en", // ar for arabic | en for english
     verbose: true,
     musicCardPath: "./musicard.png",
     enableLogging: true,
-    djRoleName: "Wick",
+    djRoleName: "MooSaurus",
     aliases: {
       play: ["p", "start", "playmusic"],
       pause: ["hold", "stopmusic"],
@@ -31,4 +31,5 @@ module.exports = {
       clear: ["c"],
       remove: ["rm", "delete"]
   }
+
 };
