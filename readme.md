@@ -1,6 +1,6 @@
 # 🎵 MooSaraus Music Bot 🎵
 
-![MooSaraus Music Banner](https://media.wickdev.me/74ayiutgVH.png)
+![MooSaraus Music Banner]()
 
 **MooSaraus Music Bot** is a feature-rich Discord bot designed to provide seamless music playback and management within your Discord servers. Powered by the latest technologies and crafted with care by **MooSaraus**, this bot ensures that your community enjoys a top-notch musical experience.
 
@@ -28,8 +28,8 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/wickstudio/discord-music-bot.git
-   cd discord-music-bot
+   git clone https://github.com/MooSaurus/MooSaraus.git
+   cd MooSaraus
    ```
 
 2. **Install Dependencies:**
@@ -189,4 +189,5 @@ For support or inquiries, reach out through the following channels:
 
 
 ![Wick Studio](https://media.wickdev.me/IGG6cyadBh.png)
+
 
