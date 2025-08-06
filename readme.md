@@ -1,4 +1,4 @@
-# 🎵 Wick Music Bot 🎵
+# 🎵 MooSaraus Music Bot 🎵
 
 ![Wick Music Banner](https://media.wickdev.me/74ayiutgVH.png)
 
@@ -188,5 +188,6 @@ For support or inquiries, reach out through the following channels:
 - **GitHub:** [wickstudio](https://github.com/wickstudio)
 
 ---
+
 
 ![Wick Studio](https://media.wickdev.me/IGG6cyadBh.png)
