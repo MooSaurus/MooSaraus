@@ -1,8 +1,8 @@
 # 🎵 MooSaraus Music Bot 🎵
 
-![Wick Music Banner](https://media.wickdev.me/74ayiutgVH.png)
+![MooSaraus Music Banner](https://media.wickdev.me/74ayiutgVH.png)
 
-**Wick Music Bot** is a feature-rich Discord bot designed to provide seamless music playback and management within your Discord servers. Powered by the latest technologies and crafted with care by **Wick Studio**, this bot ensures that your community enjoys a top-notch musical experience.
+**MooSaraus Music Bot** is a feature-rich Discord bot designed to provide seamless music playback and management within your Discord servers. Powered by the latest technologies and crafted with care by **MooSaraus**, this bot ensures that your community enjoys a top-notch musical experience.
 
 ## 🛠️ Features
 
@@ -182,12 +182,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 For support or inquiries, reach out through the following channels:
 
-- **Discord:** [discord.gg/wicks](https://discord.gg/wicks)
-- **YouTube:** [@wick_studio](https://youtube.com/@wick_studio)
-- **Instagram:** [@mik__subhi](https://instagram.com/mik__subhi)
-- **GitHub:** [wickstudio](https://github.com/wickstudio)
+- **Discord:** [discord.stomp.zone](discord.stomp.zone)
+- **GitHub:** [MooSaraus]([https://github.com/MooSaurus](https://github.com/MooSaurus))
 
 ---
 
 
 ![Wick Studio](https://media.wickdev.me/IGG6cyadBh.png)
+
