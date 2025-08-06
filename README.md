@@ -180,8 +180,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 For support or inquiries, reach out through the following channels:
 
-- **Discord:** [discord.stomp.zone](discord.stomp.zone)
-- **GitHub:** ![](https://avatars.githubusercontent.com/u/129697258?v=4) [MooSaraus](https://github.com/MooSaurus)
+<h2>🌐 Links</h2>
+<ul>
+   <li><strong>Discord: </strong><img src="https://avatars.githubusercontent.com/u/85457381?v=4" height="16px"> <a href="discord.stomp.zone">discord.stomp.zone</a></li>
+   <li><strong>GitHub:</strong> <img src="https://avatars.githubusercontent.com/u/129697258?v=4" height="16px"> <a href="https://github.com/MooSaurus">MooSaurus</a></li>
+</ul>
+
 
 
 
