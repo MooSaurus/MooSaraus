@@ -181,12 +181,7 @@ This project is licensed under the [MIT License](LICENSE).
 For support or inquiries, reach out through the following channels:
 
 - **Discord:** [discord.stomp.zone](discord.stomp.zone)
-- **GitHub:** [MooSaraus]([https://github.com/MooSaurus](https://github.com/MooSaurus))
-
----
-
-
-![Wick Studio](https://media.wickdev.me/IGG6cyadBh.png)
+- **GitHub:** [MooSaraus](https://github.com/MooSaurus)
 
 
 
